@@ -1,3 +1,4 @@
+from telegram import ParseMode
 # Telegram API data and other information.
 # This data must be filled in in order for the bot to work
 
